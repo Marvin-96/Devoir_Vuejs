@@ -2,6 +2,7 @@
   <div id="app">
      <NavBar/>
     <HomePage/>
+    <Footer/>
    
   </div>
 </template>
@@ -9,13 +10,15 @@
 <script>
 import NavBar from './components/NavBar.vue'
 import HomePage from './views/HomePage.vue'
+import Footer from './components/Footer.vue'
 
 
 export default {
   name: 'App',
   components: {
     HomePage,
-    NavBar
+    NavBar,
+    Footer
   }
 }
 </script>

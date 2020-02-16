@@ -36,7 +36,7 @@ Card
   },
   data(){
     return{
-    film: null
+    films: null
     }
   },
     mounted () {

@@ -9,7 +9,7 @@
                         <div class="art-description-preview">
                             <h1 class="title"> {{film.Title}} <br> {{film.Year}} </h1>
                                 <p> </p>
-                            <button class="fav-btn2">Ajouter au favorie
+                            <button class="fav-btn2">Ajouter aux favoris
                             </button>
                         </div>
                     </div>
